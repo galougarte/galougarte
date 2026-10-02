@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Edgard Andrés Ugarte Pavez 👋
 
-<!--
-**galougarte/galougarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿Quién soy?
+Soy Edgard Ugarte, estudiante de Desarrollo de Aplicaciones Fullstack Python Trainee. Me apasiona la tecnología y la música.
 
-Here are some ideas to get you started:
+## ¿De dónde soy?
+Soy de Santiago, Chile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿A qué me dedico?
+Actualmente me dedico a estudiar desarrollo fullstack con Python, y además soy Licenciado en Artes Musicales.
+
+## ¿Cuál es mi formación?
+- Licenciado en Artes Musicales
+- Estudiante de Desarrollo de Aplicaciones Fullstack Python Trainee
+
+## Experiencias previas
+Aunque no tengo experiencia laboral formal en tecnología, mi formación musical me ha dado disciplina, creatividad y capacidad de trabajo en equipo. He desarrollado proyectos académicos como un CRUD con Django para registrar usuarios y gestionar inmuebles. Pueden contactarme porque tengo motivación, habilidades técnicas en crecimiento y ganas de seguir aprendiendo.
+
+## ¿Cómo contactarme?
+- Correo: galougarte@gmail.com
+- GitHub: https://github.com/galougarte
