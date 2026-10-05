@@ -19,3 +19,4 @@ Aunque no tengo experiencia laboral formal en tecnología, mi formación musical
 ## ¿Cómo contactarme?
 - Correo: galougarte@gmail.com
 - GitHub: https://github.com/galougarte
+- LinkedIn: https://www.linkedin.com/in/galo-ugarte-17766917/
